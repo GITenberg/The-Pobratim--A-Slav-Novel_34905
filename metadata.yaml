@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37315'
     url: http://www.gutenberg.org/2009/agents/37315
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34905#The-Pobratim--A-Slav-Novel
 gutenberg_issued: '2011-01-10'
 gutenberg_type: Text
 identifiers:
